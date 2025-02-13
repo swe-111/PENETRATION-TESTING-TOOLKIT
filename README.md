@@ -21,5 +21,8 @@ The passwords.txt file is a plain text file used in the context of a brute-forci
 2. **Brute Forcer**
    - Attempts to gain access to SSH services by trying a list of passwords.
 
+OUTPUT:
 
-     
+![Image](https://github.com/user-attachments/assets/48612884-78d6-450a-bf8f-9910ad616880)
+
+![Image](https://github.com/user-attachments/assets/7b0c88b8-fcfb-40ac-a98f-19ec3dc21882)
