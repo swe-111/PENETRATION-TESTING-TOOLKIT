@@ -17,16 +17,9 @@ The passwords.txt file is a plain text file used in the context of a brute-forci
 ## Modules
 1. **Port Scanner**
    - Scans a range of ports on a target IP address to identify open ports.
-   - Usage: 
-     ```bash
-     python main.py
-     ```
-
+  
 2. **Brute Forcer**
    - Attempts to gain access to SSH services by trying a list of passwords.
-   - Usage:
-     ```bash
-     python main.py
-     ```
+
 
      
